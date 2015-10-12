@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: cf214da1cb0702644926fcdce91e4202
+timeCreated: 1443871121
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - destroyExplosion: {fileID: 141406, guid: aa9232bbb0dc7ce4f9d2b47eab6461d4, type: 2}
+  - destroySound: {fileID: 8300000, guid: a12f3180a97b49c4899237ebf29da1ce, type: 3}
+  - white: {fileID: 2100000, guid: a2b28c37441690a45868b2c821b22cde, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
